@@ -1,1 +1,1 @@
-# iMachineLearning
+# Machine Learning
