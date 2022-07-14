@@ -4,3 +4,4 @@
 - 逻辑回归 LogisticRegression
 - 朴素贝叶斯分类 NaiveBayesClassifier
 - 决策树 DecisionTree
+- 支持向量机 SupportVectorMachine
