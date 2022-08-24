@@ -6,5 +6,5 @@
 - 决策树 DecisionTree
 - 支持向量机 SupportVectorMachine
 - 隐马尔科夫模型 HiddenMarkovModel
-- K-最近邻 K-Nearest Neighbor
-- KMeans聚类
+- 最近邻 K-Nearest Neighbor
+- 聚类 KMeans
